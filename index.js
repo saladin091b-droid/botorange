@@ -157,7 +157,6 @@ async function terminalBanner() {
     "\x1b[34m╔══════════════════════════════════╗\x1b[0m\n" +
     "\x1b[34m║\x1b[0m  \x1b[36m█   █ █ █ █▀█   █ █▄ ▄█ ▀█\x1b[0m  \x1b[34m║\x1b[0m\n" +
     "\x1b[34m║\x1b[0m  \x1b[36m█ █ █ █▀█ █ █   █ █ █ █  █\x1b[0m  \x1b[34m║\x1b[0m\n" +
-    "\x1b[34m║
     "\x1b[34m╠══════════════════════════════════╣\x1b[0m\n" +
     "\x1b[34m║\x1b[35m    OrangeCarrier - LIVE CALL MONITOR   \x1b[34m║\x1b[0m\n" +
     "\x1b[34m╠══════════════════════════════════╣\x1b[0m\n" +

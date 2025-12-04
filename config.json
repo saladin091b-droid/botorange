@@ -1,0 +1,11 @@
+{
+  "BOT_TOKEN": "Bot",
+  "CHAT_ID": "Chatidgroup",
+  "LOG_CHAT_ID": "chatiduser",
+  "ACCOUNTS": [
+    {
+      "email": "Userr",
+      "password": "Pass"
+    }
+  ]
+}

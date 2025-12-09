@@ -1,11 +1,11 @@
 {
-  "BOT_TOKEN": "8574912841:AAH4ULL9MyEUbd-SUlpyUa43bX3MHE098ws",
-  "CHAT_ID": "5344335558",
-  "LOG_CHAT_ID": "5344335558",
+  "BOT_TOKEN": "lutoken",
+  "CHAT_ID": "chtid",
+  "LOG_CHAT_ID": "chtidAdmin",
   "ACCOUNTS": [
     {
-      "email": "xandera811@gmail.com",
-      "password": "kulkas123"
+      "email": "bot",
+      "password": "pw"
     }
   ]
 }
